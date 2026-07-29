@@ -15,11 +15,10 @@ I practiced modeling, materials, lighting and rendering.
 
 Created while learning Blender using the Blender Guru donut tutorial.
 
-Materials for background as well as flowers in the back were
-used as free assets
+Some background materials and flower assets were used from free resources.
 
 ## Additional changes
 
-- custom colors palette
-- larger quantity of donuts
-- custom plate
+- Custom color palette
+- Multiple donuts in the scene
+- Custom plate model
