@@ -22,3 +22,7 @@ Some background materials and flower assets were used from free resources.
 - Custom color palette
 - Multiple donuts in the scene
 - Custom plate model
+
+## Preview
+
+![Donut render](Donut-Pic.png)
