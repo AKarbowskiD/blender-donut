@@ -13,7 +13,7 @@ I practiced modeling, materials, lighting and rendering.
 
 ## Credits
 
-Created while learning Blender using the Blender Guru donut tutorial from 2025.
+Created while learning Blender using the Blender Guru donut tutorial.
 
 Materials for background as well as flowers in the back were
 used as free assets
