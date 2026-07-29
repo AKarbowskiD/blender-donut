@@ -1,6 +1,6 @@
 # Blender Donut
 
-My first Blender project: a simple 3D donut render.
+My first Blender project: a simple 3D donut scene.
 
 ## Software
 
